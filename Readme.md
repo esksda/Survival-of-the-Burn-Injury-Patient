@@ -4,6 +4,3 @@ I have tried both univariate approach and stepwise regression method to fit the 
 In both approach, I have found **** as the significant variable
 Regression method: Binomial Logistic Regression (Since the outcome has only two catogory)
 
-
-
-
